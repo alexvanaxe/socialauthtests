@@ -1,3 +1,10 @@
+###############   Personal configs   ######################
+.idea
+db.sqlite3
+*local_settings.py
+
+################## #git hub generated configs ##############################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
